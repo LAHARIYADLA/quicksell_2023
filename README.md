@@ -1,1 +1,1 @@
-# quicksell_2023
+# QuickSell - Frontend Assignment (IIT Guhawati)
